@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286110822396",
+    "firebase_url": "https://geo-assistant-c77a5.firebaseio.com",
+    "project_id": "geo-assistant-c77a5",
+    "storage_bucket": "geo-assistant-c77a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286110822396:android:369bac5aa7a927f5eb4c79",
+        "android_client_info": {
+          "package_name": "com.geofy.geoassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286110822396-uga5nj5usvo5bkbrqot4qkgb8cjh2rtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihLiM2OhfvwmJ3e9XH-kNbRji9Mxkt4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286110822396-uga5nj5usvo5bkbrqot4qkgb8cjh2rtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
